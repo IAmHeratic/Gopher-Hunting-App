@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GopherHunting</string>
+    <string name="mainText1">Please select a Mode:</string>
+    <string name="mainText2">Mode Selected: None</string>
+    <string name="mainMode1Button">Guess by Guess</string>
+    <string name="mainMode2Button">Continuous</string>
+    <string name="mainStartGame">Start Gopher Hunting</string>
+    <string name="selectedMode1">Mode Selected: Guess by Guess</string>
+    <string name="selectedMode2">Mode Selected: Continuous</string>
+    <string name="gameTextP1">Player 1\'s Turn</string>
+    <string name="gameTextP2">Player 2\'s Turn</string>
+    <string name="gameTextMode">Current Mode: ERROR</string>
+    <string name="gameTextModeGBG">Current Mode: Guess by Guess</string>
+    <string name="gameTextModeCNT">Current Mode: Continuous</string>
+    <string name="gameButtonTxt">Change Mode</string>
+    <string name="gameButton2Txt">Next Guess</string>
+    <string name="playGameBtn">Play Game</string>
+    <string name="p1Wins">Player 1 Wins!</string>
+    <string name="p2Wins">Player 2 Wins!</string>
+</resources>
